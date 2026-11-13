@@ -1,0 +1,8 @@
+streamlit>=1.32
+pandas>=2.0
+numpy<2.3
+scikit-learn==1.8.0
+scipy
+joblib
+threadpoolctl>=3.1.0
+plotly>=5.18
